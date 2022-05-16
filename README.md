@@ -1,1 +1,1 @@
-# cssMemSlider - https://ichernous94.github.io/cssMemSlider/cssMemSlider/index.html
+cssMemSlider - https://ichernous94.github.io/cssMemSlider/cssMemSlider/index.html
