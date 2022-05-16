@@ -168,9 +168,13 @@ input {
 @media (max-width: 660px) {
   .controls {
     flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+  .controls__dot {
+    margin-left: 25%;
   }
   .controls__text {
-    /* margin-right: 10px; */
-    margin-top: calc(7px + (18 - 7) * ((100vw - 320px) / (660 - 320)));
+    text-align: start;
+    margin-top: calc(7px + (15 - 7) * ((100vw - 320px) / (660 - 320)));
   }
 }
